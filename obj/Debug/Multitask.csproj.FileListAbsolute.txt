@@ -1,0 +1,11 @@
+C:\Users\Marcos\Desktop\Multitask\bin\Debug\Multitask.exe.config
+C:\Users\Marcos\Desktop\Multitask\bin\Debug\Multitask.exe
+C:\Users\Marcos\Desktop\Multitask\bin\Debug\Multitask.pdb
+C:\Users\Marcos\Desktop\Multitask\obj\Debug\Multitask.csproj.AssemblyReference.cache
+C:\Users\Marcos\Desktop\Multitask\obj\Debug\Multitask.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcos\Desktop\Multitask\obj\Debug\Multitask.Form1.resources
+C:\Users\Marcos\Desktop\Multitask\obj\Debug\Multitask.Properties.Resources.resources
+C:\Users\Marcos\Desktop\Multitask\obj\Debug\Multitask.csproj.GenerateResource.cache
+C:\Users\Marcos\Desktop\Multitask\obj\Debug\Multitask.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\Multitask\obj\Debug\Multitask.exe
+C:\Users\Marcos\Desktop\Multitask\obj\Debug\Multitask.pdb
