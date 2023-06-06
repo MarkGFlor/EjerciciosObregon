@@ -1,0 +1,11 @@
+C:\Users\Marcos\Desktop\Sincronico1\bin\Debug\Sincronico1.exe.config
+C:\Users\Marcos\Desktop\Sincronico1\bin\Debug\Sincronico1.exe
+C:\Users\Marcos\Desktop\Sincronico1\bin\Debug\Sincronico1.pdb
+C:\Users\Marcos\Desktop\Sincronico1\obj\Debug\Sincronico1.csproj.AssemblyReference.cache
+C:\Users\Marcos\Desktop\Sincronico1\obj\Debug\Sincronico1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcos\Desktop\Sincronico1\obj\Debug\Sincronico1.Form1.resources
+C:\Users\Marcos\Desktop\Sincronico1\obj\Debug\Sincronico1.Properties.Resources.resources
+C:\Users\Marcos\Desktop\Sincronico1\obj\Debug\Sincronico1.csproj.GenerateResource.cache
+C:\Users\Marcos\Desktop\Sincronico1\obj\Debug\Sincronico1.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\Sincronico1\obj\Debug\Sincronico1.exe
+C:\Users\Marcos\Desktop\Sincronico1\obj\Debug\Sincronico1.pdb
